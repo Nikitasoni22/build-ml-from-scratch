@@ -18,21 +18,6 @@ This repository contains my journey of learning Machine Learning by implementing
 
 ---
 
-## 📂 Folder Structure
-build-ml-from-scratch/
-│
-├── linear_regression/
-│ ├── linear_regression.ipynb
-│ ├── datasets/
-│
-├── logistic_regression/
-│ ├── logistic_regression.ipynb
-│ ├── datasets/
-│
-
-
----
-
 ## ⚙️ Technologies Used
 
 - Python 🐍
